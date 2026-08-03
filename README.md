@@ -29,6 +29,8 @@ Credits: (Patches Owners)
 
 • DirectX 11 Renderer (https://community.pcgamingwiki.com/files/file/2744-unreal-directx11-renderer/)
 
+• Deus Ex Goty and Revision Engine fixes (https://www.nexusmods.com/deusex/mods/65?tab=description)
+
 • Xbox Controller Support (https://github.com/dsgls/DXController)
 
 • VS2010 runtimes (Microsoft)
