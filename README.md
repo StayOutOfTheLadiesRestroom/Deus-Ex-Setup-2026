@@ -17,4 +17,18 @@ Requirements:
 - Deus Ex GOTY (Steam version recommended)
 - Windows x64
 
-Run as administrator to allow installation inside Steam folders.
+Credits: (Patches Owners)
+
+• DeusExe v8.1 patch (https://kentie.net/article/dxguide/)
+
+• DeusExV2 patch (https://www.moddb.com/games/deus-ex/downloads/deus-ex-unofficial-patch-v2)
+
+• Map fix Patch (https://www.dxm.be/navigator.php?lang=en&content=202)
+
+• Direct3D 10 Renderer (https://kentie.net/article/d3d10drv/index.htm)
+
+• DirectX 11 Renderer (https://community.pcgamingwiki.com/files/file/2744-unreal-directx11-renderer/)
+
+• Xbox Controller Support (https://github.com/dsgls/DXController)
+
+• VS2010 runtimes (Microsoft)
