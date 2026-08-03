@@ -9,6 +9,7 @@ Features:
 - Map fixes
 - Direct3D 10 / DirectX 11 renderer installation
 - Optional controller support
+- Deus Ex Goty Engine fixes
 - Automatic backups
 - DeusEx.ini configuration
 - Portable single-file executable
