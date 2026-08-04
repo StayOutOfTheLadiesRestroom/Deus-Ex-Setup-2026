@@ -35,3 +35,7 @@ Credits: (Patches Owners)
 • Xbox Controller Support (https://github.com/dsgls/DXController)
 
 • VS2010 runtimes (Microsoft)
+
+Support:
+if you want to support me either favourite and like the guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3749212454
+or buy me a game from my wishlist: https://store.steampowered.com/wishlist/profiles/76561199502509111
