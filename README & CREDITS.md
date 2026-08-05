@@ -36,6 +36,10 @@ Credits: (Patches Owners)
 
 - VS2010 runtimes (Microsoft)
 
+- French Patch (https://www.dxm.be/navigator.php?lang=en&content=201)
+
+- Spanish Patch (Spanish Translation made by the people from ClanDLan, a website that died.)
+
 Support:
 - Favourite and Like the guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3749212454
 - Buy me a game from my steam wishlist: https://store.steampowered.com/wishlist/profiles/76561199502509111
