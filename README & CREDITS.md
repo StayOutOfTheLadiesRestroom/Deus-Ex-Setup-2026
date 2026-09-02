@@ -42,4 +42,4 @@ Credits: (Patches Owners)
 
 Support:
 - Favourite and Like the guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3749212454
-- Buy me a game from my steam wishlist: https://store.steampowered.com/wishlist/profiles/76561199502509111
+- Buy me a game from my steam wishlist: https://store.steampowered.com/wishlist/id/TF29/?sort=discount
