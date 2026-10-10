@@ -40,7 +40,7 @@ Credits: (Patches Owners)
 
 - Spanish Patch (Spanish Translation made by the people from ClanDLan, a website that died.)
 
-- German/Deutschland Patch (https://archive.org/download/dx_deutsch)
+- German/Deutsch Patch (https://archive.org/download/dx_deutsch)
 
 Support:
 - Favourite and Like the guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3749212454
