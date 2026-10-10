@@ -40,6 +40,8 @@ Credits: (Patches Owners)
 
 - Spanish Patch (Spanish Translation made by the people from ClanDLan, a website that died.)
 
+- German/Deutschland Patch (https://archive.org/download/dx_deutsch)
+
 Support:
 - Favourite and Like the guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3749212454
 - Buy me a game from my steam wishlist: https://store.steampowered.com/wishlist/id/TF29
