@@ -34,7 +34,7 @@ Credits: (Patches Owners)
 
 - Xbox Controller Support (https://github.com/dsgls/DXController)
 
-- VS2010 runtimes (Microsoft)
+- VS2010 runtimes (Microsoft, https://www.microsoft.com/download/details.aspx?id=105890)
 
 - French Patch (https://www.dxm.be/navigator.php?lang=en&content=201)
 
